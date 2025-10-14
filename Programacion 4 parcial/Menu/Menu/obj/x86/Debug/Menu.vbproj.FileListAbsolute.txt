@@ -1,0 +1,75 @@
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\bin\Debug\Menu.exe
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\bin\Debug\Menu.pdb
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\bin\Debug\Menu.xml
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.Form1.resources
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.Resources.resources
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.vbproj.GenerateResource.Cache
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.exe
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.xml
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.pdb
+C:\Users\Usuario.LABO-15\AppData\Local\Temporary Projects\Menu\obj\x86\Debug\Menu.sumadosnumeros.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.exe
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.xml
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.pdb
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.cincooperaciones.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.Form1.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.Resources.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.sumadosnumeros.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.vbproj.GenerateResource.Cache
+D:\Programacion 4 parcial\Menu\Menu\bin\Debug\Menu.exe
+D:\Programacion 4 parcial\Menu\Menu\bin\Debug\Menu.pdb
+D:\Programacion 4 parcial\Menu\Menu\bin\Debug\Menu.xml
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.arearectangulo.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.areatriangulo.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.porcentajemujyvar.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.promedio.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.promedioif.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.diassemana.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.edadmayormenor.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.almacenamiento.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.tablasmul.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.horamin.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.cohete.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.positivonegativo.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.parimpar.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.multiplos.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.sumanums.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.numenor.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.areacirculo.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.macm.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.pulgacm.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.raiznum.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.exe
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.xml
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.pdb
+G:\Programacion 4 parcial\Menu\Menu\bin\Debug\Menu.exe
+G:\Programacion 4 parcial\Menu\Menu\bin\Debug\Menu.pdb
+G:\Programacion 4 parcial\Menu\Menu\bin\Debug\Menu.xml
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.almacenamiento.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.areacirculo.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.arearectangulo.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.areatriangulo.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.cincooperaciones.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.cohete.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.diassemana.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.edadmayormenor.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.Form1.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.horamin.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.macm.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.multiplos.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.Resources.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.numenor.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.parimpar.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.porcentajemujyvar.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.positivonegativo.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.promedio.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.promedioif.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.pulgacm.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.raiznum.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.sumadosnumeros.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.sumanums.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.tablasmul.resources
+G:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.vbproj.GenerateResource.Cache
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.descuento.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.arreglo.resources
+D:\Programacion 4 parcial\Menu\Menu\obj\x86\Debug\Menu.arreglodos.resources

@@ -1,0 +1,12 @@
+F:\Programacion 4 parcial\group box\group box\bin\Debug\group box.exe
+F:\Programacion 4 parcial\group box\group box\bin\Debug\group box.pdb
+F:\Programacion 4 parcial\group box\group box\bin\Debug\group box.xml
+F:\Programacion 4 parcial\group box\group box\obj\x86\Debug\WindowsApplication1.Form1.resources
+F:\Programacion 4 parcial\group box\group box\obj\x86\Debug\WindowsApplication1.Resources.resources
+F:\Programacion 4 parcial\group box\group box\obj\x86\Debug\group box.vbproj.GenerateResource.Cache
+F:\Programacion 4 parcial\group box\group box\obj\x86\Debug\group box.exe
+F:\Programacion 4 parcial\group box\group box\obj\x86\Debug\group box.xml
+F:\Programacion 4 parcial\group box\group box\obj\x86\Debug\group box.pdb
+D:\Programacion 4 parcial\group box\group box\obj\x86\Debug\group box.exe
+D:\Programacion 4 parcial\group box\group box\obj\x86\Debug\group box.xml
+D:\Programacion 4 parcial\group box\group box\obj\x86\Debug\group box.pdb
