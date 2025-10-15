@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4638D00F-7BAD-446A-A538-61B4CE5A0753}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Menu_nuevo.My.MyApplication</StartupObject>
+    <RootNamespace>Menu_nuevo</RootNamespace>
+    <AssemblyName>Menu_nuevo</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Menu_nuevo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Menu_nuevo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="almacenamiento.Designer.vb">
+      <DependentUpon>almacenamiento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="almacenamiento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arearec.Designer.vb">
+      <DependentUpon>arearec.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arearec.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="areatriangulo.Designer.vb">
+      <DependentUpon>areatriangulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="areatriangulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arreglocincooper.Designer.vb">
+      <DependentUpon>arreglocincooper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arreglocincooper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arreglosum.Designer.vb">
+      <DependentUpon>arreglosum.vb</DependentUpon>
+    </Compile>
+    <Compile Include="arreglosum.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cincooper.Designer.vb">
+      <DependentUpon>cincooper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cincooper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="circulo.Designer.vb">
+      <DependentUpon>circulo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="circulo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cohete.Designer.vb">
+      <DependentUpon>cohete.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cohete.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="descuento.Designer.vb">
+      <DependentUpon>descuento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="descuento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dias.Designer.vb">
+      <DependentUpon>dias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="horasymin.Designer.vb">
+      <DependentUpon>horasymin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="horasymin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="macm.Designer.vb">
+      <DependentUpon>macm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="macm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mayoromenor.Designer.vb">
+      <DependentUpon>mayoromenor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="mayoromenor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="multiploscinco.Designer.vb">
+      <DependentUpon>multiploscinco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="multiploscinco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="numayor.Designer.vb">
+      <DependentUpon>numayor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="numayor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="parimpar.Designer.vb">
+      <DependentUpon>parimpar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="parimpar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pormujyhom.Designer.vb">
+      <DependentUpon>pormujyhom.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pormujyhom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="positivo_negativo.Designer.vb">
+      <DependentUpon>positivo_negativo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="positivo_negativo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="promedio.Designer.vb">
+      <DependentUpon>promedio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="promedio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="promedioif.Designer.vb">
+      <DependentUpon>promedioif.vb</DependentUpon>
+    </Compile>
+    <Compile Include="promedioif.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pulgacm.Designer.vb">
+      <DependentUpon>pulgacm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="pulgacm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="raiz.Designer.vb">
+      <DependentUpon>raiz.vb</DependentUpon>
+    </Compile>
+    <Compile Include="raiz.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sumadosnumeros.Designer.vb">
+      <DependentUpon>sumadosnumeros.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sumadosnumeros.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sumanums.Designer.vb">
+      <DependentUpon>sumanums.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sumanums.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tablas.Designer.vb">
+      <DependentUpon>tablas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tablas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="almacenamiento.resx">
+      <DependentUpon>almacenamiento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arearec.resx">
+      <DependentUpon>arearec.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="areatriangulo.resx">
+      <DependentUpon>areatriangulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arreglocincooper.resx">
+      <DependentUpon>arreglocincooper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arreglosum.resx">
+      <DependentUpon>arreglosum.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cincooper.resx">
+      <DependentUpon>cincooper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="circulo.resx">
+      <DependentUpon>circulo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cohete.resx">
+      <DependentUpon>cohete.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="descuento.resx">
+      <DependentUpon>descuento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dias.resx">
+      <DependentUpon>dias.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="horasymin.resx">
+      <DependentUpon>horasymin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="macm.resx">
+      <DependentUpon>macm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mayoromenor.resx">
+      <DependentUpon>mayoromenor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="multiploscinco.resx">
+      <DependentUpon>multiploscinco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="numayor.resx">
+      <DependentUpon>numayor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="parimpar.resx">
+      <DependentUpon>parimpar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pormujyhom.resx">
+      <DependentUpon>pormujyhom.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="positivo_negativo.resx">
+      <DependentUpon>positivo_negativo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="promedio.resx">
+      <DependentUpon>promedio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="promedioif.resx">
+      <DependentUpon>promedioif.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pulgacm.resx">
+      <DependentUpon>pulgacm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="raiz.resx">
+      <DependentUpon>raiz.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sumadosnumeros.resx">
+      <DependentUpon>sumadosnumeros.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sumanums.resx">
+      <DependentUpon>sumanums.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tablas.resx">
+      <DependentUpon>tablas.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

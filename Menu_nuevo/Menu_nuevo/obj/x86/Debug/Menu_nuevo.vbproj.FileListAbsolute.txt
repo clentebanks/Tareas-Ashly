@@ -1,0 +1,48 @@
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\bin\Debug\Menu_nuevo.exe
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\bin\Debug\Menu_nuevo.pdb
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\bin\Debug\Menu_nuevo.xml
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.Form1.resources
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.Resources.resources
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.sumadosnumeros.resources
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.vbproj.GenerateResource.Cache
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.exe
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.xml
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.pdb
+C:\Users\clent\AppData\Local\Temporary Projects\Menu_nuevo\obj\x86\Debug\Menu_nuevo.cincooper.resources
+D:\Programacion 3 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.exe
+D:\Programacion 3 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.xml
+D:\Programacion 3 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.pdb
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.exe
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.xml
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.pdb
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\bin\Debug\Menu_nuevo.exe
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\bin\Debug\Menu_nuevo.pdb
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\bin\Debug\Menu_nuevo.xml
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.cincooper.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.Form1.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.Resources.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.sumadosnumeros.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.vbproj.GenerateResource.Cache
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.arearec.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.areatriangulo.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.pormujyhom.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.promedio.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.promedioif.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.dias.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.mayoromenor.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.almacenamiento.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.tablas.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.horasymin.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.cohete.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.positivo_negativo.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.parimpar.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.multiploscinco.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.sumanums.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.numayor.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.circulo.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.macm.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.pulgacm.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.raiz.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.descuento.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.arreglosum.resources
+D:\Programacion 4 parcial\Menu_nuevo\Menu_nuevo\obj\x86\Debug\Menu_nuevo.arreglocincooper.resources
